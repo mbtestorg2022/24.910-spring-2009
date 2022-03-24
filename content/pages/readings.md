@@ -42,7 +42,7 @@ Introduction and preview
 Semantics 1: possible world semantics for attitudes
 {{< tdclose >}}
 {{< tdopen >}}
-von Fintel, Kai, and Irene Heim. Lecture Notes on Intensional Semantics. Chapters 1 and 2. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://mit.edu/fintel/fintel-heim-intensional.pdf))
+von Fintel, Kai, and Irene Heim. Lecture Notes on Intensional Semantics. Chapters 1 and 2. ([PDF](http://mit.edu/fintel/fintel-heim-intensional.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +56,7 @@ Semantics 2: presupposition and sequence of tense
 {{< tdopen >}}
 
 
-von Fintel, Kai, and Irene Heim. Lecture Notes on Intensional Semantics. Chapters 1 and 2. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://mit.edu/fintel/fintel-heim-intensional.pdf))
+von Fintel, Kai, and Irene Heim. Lecture Notes on Intensional Semantics. Chapters 1 and 2. ([PDF](http://mit.edu/fintel/fintel-heim-intensional.pdf))
 
 Heim, Irene, and Angelika Kratzer. "Truth-Conditional Semantics and the Fregean Program," "Executing the Fregean Program," and "Semantics and Syntax." Chapters 1 to 3 in _Semantics in Generative Grammar_. Malden, MA: Blackwell Publishers, 1998, pp. 1-32. ISBN: 9780631197133.
 

@@ -44,7 +44,7 @@ SOLUTIONS
 
 ### Reading
 
-von Fintel, Kai, and Irene Heim. Lecture Notes on Intensional Semantics. Chapters 1 and 2. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://mit.edu/fintel/fintel-heim-intensional.pdf))
+von Fintel, Kai, and Irene Heim. Lecture Notes on Intensional Semantics. Chapters 1 and 2. ([PDF](http://mit.edu/fintel/fintel-heim-intensional.pdf))
 
 ### Things to do as you read
 
@@ -80,7 +80,7 @@ This assignment will not be graded for content/correctness at this point, but yo
 
 ### Required Reading
 
-von Fintel, Kai, and Irene Heim. Lecture Notes on Intensional Semantics. Chapters 1 and 2. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://mit.edu/fintel/fintel-heim-intensional.pdf))
+von Fintel, Kai, and Irene Heim. Lecture Notes on Intensional Semantics. Chapters 1 and 2. ([PDF](http://mit.edu/fintel/fintel-heim-intensional.pdf))
 
 ### Recommended Reading
 
